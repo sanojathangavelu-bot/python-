@@ -1,1 +1,1 @@
-hijjihih
+print("Hello, World!")
